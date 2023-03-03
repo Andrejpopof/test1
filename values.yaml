@@ -1,5 +1,5 @@
   webapp:
-    numberReplicas: 5
+    numberReplicas: 4
    
   repoName: stefan
 
